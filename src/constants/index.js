@@ -17,8 +17,6 @@ import {
     docker,
     contalem,
     topsoft,
-    tesla,
-    shopify,
     carrent,
     jobit,
     tripguide,
