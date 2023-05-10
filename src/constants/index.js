@@ -120,10 +120,7 @@ import {
       iconBg: "#fff",
       date: "Abril 2021 - Maio 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Minha primeira experiência profissional foi em um escritório de contabilidade, onde eu trabalhei como responsável pela parte fiscal de diversas empresas, além de fazer certificados digitais. Nesse trabalho, eu pude aprimorar minhas habilidades em lidar com documentos e questões legais, além de me familiarizar com o ambiente de trabalho em uma empresa. Aprendi muito sobre organização e responsabilidade, e pude contribuir para o sucesso de muitas empresas, ajudando a garantir a conformidade fiscal e legal de seus negócios. Essa experiência foi fundamental para o meu desenvolvimento profissional e me ajudou a estabelecer uma base sólida para minha carreira futura..",
       ],
     },
     {
@@ -133,11 +130,12 @@ import {
       iconBg: "#E6DEDD",
       date: "Maio 2021 - Out 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
+        "Decidi mudar minha área de atuação e comecei a me interessar por tecnologia. Foi aí que comecei a estudar sobre desenvolvimento de software e, por indicação de um amigo que já atuava nessa área, descobri uma empresa especializada em desenvolvimento de software comerciais em minha cidade natal.",
+
+        "Mesmo sem ter muita experiência técnica, fui contratado como técnico helpdesk, pois a empresa valorizava minha vontade de aprender e minha paixão pela tecnologia. Durante meu tempo lá, trabalhei duro para aprender e crescer na empresa, participando de treinamentos e projetos, para aprimorar minhas habilidades técnicas e ganhar mais experiência em desenvolvimento de software.",
+    
+      "Foi uma experiência enriquecedora e desafiadora, mas estou grato por ter tido a oportunidade de aprender e crescer profissionalmente naquela empresa. Acredito que essa experiência me ajudou a desenvolver habilidades valiosas em tecnologia e me preparou para desafios futuros na área de desenvolvimento de software.",
+     ],
     },
     {
       title: "Full stack Developer",
@@ -146,10 +144,11 @@ import {
       iconBg: "#E6DEDD",
       date: "Out 2022 - Presente",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Após trabalhar como técnico de helpdesk na TopSoft Informática, finalmente realizei minha transição para o cargo de desenvolvedor de software. Hoje em dia, tenho a oportunidade de trabalhar no desenvolvimento de novos aplicativos e também na manutenção de sistemas antigos da empresa.",
+
+        "Como desenvolvedor de software, sou responsável por desenvolver soluções personalizadas para nossos clientes, trabalhando em estreita colaboração com outros membros da equipe de desenvolvimento para garantir que nossos aplicativos sejam eficientes, seguros e fáceis de usar. Meu trabalho envolve lidar com diversas linguagens de programação e plataformas tecnológicas para criar soluções que atendam às necessidades específicas de nossos clientes.",
+        
+        "Além disso, também sou responsável por ajudar a manter sistemas legados da empresa, garantindo que esses sistemas continuem operando com segurança e eficiência. Isso inclui a identificação e correção de problemas de software e a implementação de atualizações para garantir que nossos sistemas estejam sempre funcionando de maneira ideal.",
       ],
     },
   ];
