@@ -144,11 +144,28 @@ import {
       iconBg: "#E6DEDD",
       date: "Out 2022 - Presente",
       points: [
-        "Após trabalhar como técnico de helpdesk na TopSoft Informática, finalmente realizei minha transição para o cargo de desenvolvedor de software. Hoje em dia, tenho a oportunidade de trabalhar no desenvolvimento de novos aplicativos e também na manutenção de sistemas antigos da empresa.",
-
-        "Como desenvolvedor de software, sou responsável por desenvolver soluções personalizadas para nossos clientes, trabalhando em estreita colaboração com outros membros da equipe de desenvolvimento para garantir que nossos aplicativos sejam eficientes, seguros e fáceis de usar. Meu trabalho envolve lidar com diversas linguagens de programação e plataformas tecnológicas para criar soluções que atendam às necessidades específicas de nossos clientes.",
-        
-        "Além disso, também sou responsável por ajudar a manter sistemas legados da empresa, garantindo que esses sistemas continuem operando com segurança e eficiência. Isso inclui a identificação e correção de problemas de software e a implementação de atualizações para garantir que nossos sistemas estejam sempre funcionando de maneira ideal.",
+        "Java",
+        "SpringBoot",
+        "JavaScript/TypeScript",
+        "NodeJS",
+        "ReactJS",
+        "NextJS",
+        "PostgreSQL"
+      ],
+    },
+    {
+      title: "Web Developer",
+      company_name: "Captar Agrobusiness",
+      icon: topsoft,
+      iconBg: "#E6DEDD",
+      date: "Jun 2023 - Presente",
+      points: [
+          "Pyhton",
+          "Django",
+          "JavaScript",
+          "Vue.js",
+          "SQLServer",
+          "Docker",
       ],
     },
   ];
