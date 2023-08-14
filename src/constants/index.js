@@ -128,7 +128,7 @@ import {
       company_name: "TopSoft Informática",
       icon: topsoft,
       iconBg: "#E6DEDD",
-      date: "Mai 2022 - Presente",
+      date: "Mai 2022 - Jun 2023",
       points: [
         "Java",
         "SpringBoot",
