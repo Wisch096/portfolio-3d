@@ -124,25 +124,11 @@ import {
       ],
     },
     {
-      title: "HelpDesk T.I",
-      company_name: "TopSoft Informática",
-      icon: topsoft,
-      iconBg: "#E6DEDD",
-      date: "Maio 2021 - Out 2022",
-      points: [
-        "Decidi mudar minha área de atuação e comecei a me interessar por tecnologia. Foi aí que comecei a estudar sobre desenvolvimento de software e, por indicação de um amigo que já atuava nessa área, descobri uma empresa especializada em desenvolvimento de software comerciais em minha cidade natal.",
-
-        "Mesmo sem ter muita experiência técnica, fui contratado como técnico helpdesk, pois a empresa valorizava minha vontade de aprender e minha paixão pela tecnologia. Durante meu tempo lá, trabalhei duro para aprender e crescer na empresa, participando de treinamentos e projetos, para aprimorar minhas habilidades técnicas e ganhar mais experiência em desenvolvimento de software.",
-    
-      "Foi uma experiência enriquecedora e desafiadora, mas estou grato por ter tido a oportunidade de aprender e crescer profissionalmente naquela empresa. Acredito que essa experiência me ajudou a desenvolver habilidades valiosas em tecnologia e me preparou para desafios futuros na área de desenvolvimento de software.",
-     ],
-    },
-    {
       title: "Full stack Developer",
       company_name: "TopSoft Informática",
       icon: topsoft,
       iconBg: "#E6DEDD",
-      date: "Out 2022 - Presente",
+      date: "Mai 2022 - Presente",
       points: [
         "Java",
         "SpringBoot",
@@ -156,7 +142,6 @@ import {
     {
       title: "Web Developer",
       company_name: "Captar Agrobusiness",
-      icon: topsoft,
       iconBg: "#E6DEDD",
       date: "Jun 2023 - Presente",
       points: [
