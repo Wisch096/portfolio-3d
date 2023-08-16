@@ -21,6 +21,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    captar,
   } from "../assets";
   
   export const navLinks = [
@@ -40,19 +41,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Java",
       icon: web,
     },
     {
-      title: "React Developer",
+      title: "React",
       icon: mobile,
     },
     {
-      title: "Full-Stack Developer",
+      title: "Python",
       icon: backend,
     },
     {
-      title: "Spring Developer",
+      title: "SQL",
       icon: creator,
     },
   ];
@@ -120,7 +121,7 @@ import {
       iconBg: "#fff",
       date: "Abril 2021 - Maio 2022",
       points: [
-        "Minha primeira experiência profissional foi em um escritório de contabilidade, onde eu trabalhei como responsável pela parte fiscal de diversas empresas, além de fazer certificados digitais. Nesse trabalho, eu pude aprimorar minhas habilidades em lidar com documentos e questões legais, além de me familiarizar com o ambiente de trabalho em uma empresa. Aprendi muito sobre organização e responsabilidade, e pude contribuir para o sucesso de muitas empresas, ajudando a garantir a conformidade fiscal e legal de seus negócios. Essa experiência foi fundamental para o meu desenvolvimento profissional e me ajudou a estabelecer uma base sólida para minha carreira futura..",
+        "Comecei minha carreira em um escritório de contabilidade, onde cuidei da parte fiscal e emissão de certificados digitais para várias empresas. Lá, aprimorei habilidades em lidar com documentos, questões legais e contribuí para o sucesso de empresas, garantindo conformidade fiscal e legal. A experiência foi essencial para meu desenvolvimento profissional e estabelecimento de base sólida para minha carreira.",
       ],
     },
     {
@@ -130,18 +131,13 @@ import {
       iconBg: "#E6DEDD",
       date: "Mai 2022 - Jun 2023",
       points: [
-        "Java",
-        "SpringBoot",
-        "JavaScript/TypeScript",
-        "NodeJS",
-        "ReactJS",
-        "NextJS",
-        "PostgreSQL"
+        "Criei e mantive uma variedade de sistemas desktop e web de alta qualidade. Com expertise em tecnologias como Java, SpringBoot, JavaScript/TypeScript, NodeJS, ReactJS e NextJS, liderei implementação eficiente e aprimoramento de soluções inovadoras. Colaborei de forma proativa para satisfazer as demandas dos clientes e proporcionar experiências excepcionais aos usuários."
       ],
     },
     {
       title: "Web Developer",
       company_name: "Captar Agrobusiness",
+      icon: captar,
       iconBg: "#E6DEDD",
       date: "Jun 2023 - Presente",
       points: [
@@ -158,18 +154,18 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "Muito esperto.",
+      name: "HOra",
+      designation: "CEO",
+      company: "TOPSOFT",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+        "SAbe muito.",
+      name: "LUisao",
+      designation: "DESIGNER",
+      company: "top soft",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
