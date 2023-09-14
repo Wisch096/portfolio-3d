@@ -141,10 +141,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jun 2023 - Presente",
       points: [
-          "Pyhton",
-          "Django",
+          "Java",
+          "SpringBoot",
           "JavaScript",
-          "Vue.js",
+          "React.js",
           "SQLServer",
           "Docker",
       ],
