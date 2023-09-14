@@ -49,7 +49,7 @@ import {
       icon: mobile,
     },
     {
-      title: "Python",
+      title: "SpringBoot",
       icon: backend,
     },
     {
