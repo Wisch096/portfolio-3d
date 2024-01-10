@@ -45,15 +45,15 @@ import {
       icon: web,
     },
     {
-      title: "React",
+      title: "C#",
       icon: mobile,
     },
     {
-      title: "SpringBoot",
+      title: "Angular",
       icon: backend,
     },
     {
-      title: "SQL",
+      title: ".NET",
       icon: creator,
     },
   ];
@@ -115,38 +115,44 @@ import {
   
   const experiences = [
     {
-      title: "Departamento Fiscal",
-      company_name: "Contalem",
+      title: "Desenvolvedor FullStack",
+      company_name: "TopSoft Informática",
       icon: contalem,
       iconBg: "#fff",
-      date: "Abril 2021 - Maio 2022",
-      points: [
-        "Comecei minha carreira em um escritório de contabilidade, onde cuidei da parte fiscal e emissão de certificados digitais para várias empresas. Lá, aprimorei habilidades em lidar com documentos, questões legais e contribuí para o sucesso de empresas, garantindo conformidade fiscal e legal. A experiência foi essencial para meu desenvolvimento profissional e estabelecimento de base sólida para minha carreira.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "TopSoft Informática",
-      icon: topsoft,
-      iconBg: "#E6DEDD",
       date: "Mai 2022 - Jun 2023",
       points: [
-        "Criei e mantive uma variedade de sistemas desktop e web de alta qualidade. Com expertise em tecnologias como Java, SpringBoot, JavaScript/TypeScript, NodeJS, ReactJS e NextJS, liderei implementação eficiente e aprimoramento de soluções inovadoras. Colaborei de forma proativa para satisfazer as demandas dos clientes e proporcionar experiências excepcionais aos usuários."
+        "Criei e mantive uma variedade de sistemas desktop e web de alta qualidade. Com expertise em tecnologias como Java, SpringBoot, JavaScript/TypeScript, NodeJS, ReactJS e NextJS, liderei implementação eficiente e aprimoramento de soluções inovadoras. Colaborei de forma proativa para satisfazer as demandas dos clientes e proporcionar experiências excepcionais aos usuários.",
       ],
     },
     {
-      title: "Web Developer",
+      title: "Desenvolvedor FullStack",
       company_name: "Captar Agrobusiness",
+      icon: topsoft,
+      iconBg: "#E6DEDD",
+      date: "Jun 2023 - Set 2023",
+      points: [
+        "Java",
+        "SpringBoot",
+        "JavaScript",
+        "Angular",
+        "SQLServer",
+        "Docker",
+    ],
+    },
+    {
+      title: "Desenvolvedor FullStack",
+      company_name: "Conceito Tecnologia",
       icon: captar,
       iconBg: "#E6DEDD",
-      date: "Jun 2023 - Presente",
+      date: "Set 2023 - Presente",
       points: [
-          "Java",
-          "SpringBoot",
-          "JavaScript",
-          "React.js",
+          "C#",
+          ".NET",
+          "Angular",
+          "TailwindCSS",
           "SQLServer",
           "Docker",
+          "Jenkins",
       ],
     },
   ];
