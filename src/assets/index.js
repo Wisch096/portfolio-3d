@@ -24,7 +24,7 @@ import threejs from "./tech/threejs.svg";
 import contalem from "./company/contalem.jpg";
 import topsoft from "./company/topsoft.png";
 import captar from "./company/captar.jpeg"
-
+import conceito from "./company/conceito.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -53,6 +53,7 @@ export {
   threejs,
   contalem,
   topsoft,
+  conceito,
   captar,
   carrent,
   jobit,

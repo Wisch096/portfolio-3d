@@ -15,7 +15,7 @@ import {
     git,
     figma,
     docker,
-    contalem,
+    conceito,
     topsoft,
     carrent,
     jobit,
@@ -146,7 +146,7 @@ import {
     {
       title: "Desenvolvedor FullStack",
       company_name: "Conceito Tecnologia",
-      icon: captar,
+      icon: conceito,
       iconBg: "#E6DEDD",
       date: "Set 2023 - Presente",
       points: [
